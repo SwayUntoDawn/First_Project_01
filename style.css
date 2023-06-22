@@ -1,0 +1,58 @@
+body  {
+
+    background-color: antiquewhite;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+.container {
+
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: 1px solid black;
+    margin: 25px 50px 75px;
+    margin-bottom: 20px;
+   
+   
+}
+
+
+.Forms-List {
+
+   border: 1px solid black;
+   margin: 25px 50px 75px;
+   padding: 10px;
+   display: flex;
+   margin-bottom: 20px;
+   padding: 10px;
+    
+
+}
+
+
+.submit-form {
+
+    border: 1px solid black;
+    margin: 25px 50px 75px;
+    margin-bottom: 20px;
+
+
+}
+
+
+
+
+footer {
+
+    background-color: white;
+    border: 1px solid black;
+    margin: 25px 50px 75px;
+    margin-bottom: 20px;
+
+
+}
